@@ -1,0 +1,11 @@
+env
+config
+.vscode
+.env 
+test.py
+__pycache__/
+logs/
+*.pyc
+data/
+test.py
+archive
