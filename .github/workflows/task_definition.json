@@ -29,10 +29,10 @@
       ],
       "secrets": [
         {
-          "name": "documentportalapikeys",
+          "name": "API_KEYS",
           "valueFrom": "arn:aws:secretsmanager:us-east-2:341860778343:secret:documentportalapikeys-toclWJ"
         }
-        
+
       ],
       "logConfiguration": {
         "logDriver": "awslogs",
