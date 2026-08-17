@@ -1,5 +1,4 @@
 env
-config
 .vscode
 .env 
 test.py
